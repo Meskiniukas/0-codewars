@@ -13,7 +13,7 @@ function gooseFilter(birds) {
         reikia palyginti ar bird yra geese sarase
         reikia eiti per geese sarasa
             paimti geese nari
-            jeigu, geese narys sutampa su bird reiksme, tai ji yra neleistina / neitrakiama i rez sarasa
+            jeigu, geese narys sutampa su bird reiksme, tai ji yra neleistina / neitraukiama i rez sarasa
             priesingu atveju - bird itraukiame i rez sarasa
     */
 
