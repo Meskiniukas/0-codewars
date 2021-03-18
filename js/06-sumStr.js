@@ -8,13 +8,17 @@
 //     return '' + (pirmas + antras);
 // }
 
+// function sumStr(a, b) {
+//     const pirmas = Number(a);
+//     const antras = Number(b);
+
+//     return '' + (pirmas + antras);
+// }
+
+
 function sumStr(a, b) {
-    const pirmas = Number(a);
-    const antras = Number(b);
-
-    return '' + (pirmas + antras);
+    return (+a + +b) + '';
 }
-
 
 
 console.log(sumStr("4", "5"), '->', "9");
