@@ -1,3 +1,6 @@
+// https://www.codewars.com/kata/58dced7b702b805b200000be
+
+
 function distanceBetweenPoints(a, b) {
     const deltaX = a[0] - b[0];
     const deltaY = a[1] - b[1];
