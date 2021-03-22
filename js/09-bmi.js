@@ -1,3 +1,6 @@
+// https://www.codewars.com/kata/57a429e253ba3381850000fb
+
+
 function bmi(weight, height) {
     index = weight / (height * height)
      if (index <= 18.5) {
