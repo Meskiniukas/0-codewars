@@ -8,4 +8,4 @@ function removeExclamationMarks(s) {
     return newString;
   }
 
-console.log(removeExclamationMarks('Labas ! Rytas ! Lietuva !'));
+console.log(removeExclamationMarks('Labas! Rytas! Lietuva !'));
