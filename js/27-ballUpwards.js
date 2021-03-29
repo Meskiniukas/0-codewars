@@ -5,7 +5,7 @@ function maxBall(v0) {
     let h = 0;
     let t0 = 0;
     
-    for (let t = t0; t < 100000; t + 0.1) {
+    for (let t = t0; t < 100000;) {
         t += 0.1;
         h = v * t - 0.5 * g * t * t
         if (h > h0) {
@@ -19,4 +19,4 @@ function maxBall(v0) {
         }
 }
 
-console.log(`${maxBall(99)} sek/10`);
+console.log(`${maxBall(37)} sek/10`);
